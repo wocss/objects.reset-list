@@ -1,0 +1,21 @@
+{
+  "name": "wocss-objects-reset-list",
+  "version": "0.0.1",
+  "description": "wocss' reset-list object",
+  "main": "_objects.reset-list.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wocss/objects.reset-list.git"
+  },
+  "keywords": [
+    "wocss",
+    "css",
+    "oocss"
+  ],
+  "author": "Gean Carlos <gean.marroquin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wocss/objects.reset-list/issues"
+  },
+  "homepage": "https://github.com/wocss/objects.reset-list#readme"
+}
