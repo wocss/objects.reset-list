@@ -17,3 +17,8 @@ Simply add the class to remove any styles that were previously set on a list.
   <!-- here your content -->
 </ul>
 ```
+
+## Dependencies
+
+* [wocss-settings-defaults](https://github.com/wocss/settings.default)
+* [wocss-tools-mixins](https://github.com/wocss/tools.mixins)
