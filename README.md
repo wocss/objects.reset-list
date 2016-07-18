@@ -1,6 +1,6 @@
 # Reset list
 
-The `wocss-objects-reset-list` module contains the reset-list object.
+The `wocss-objects-reset-list` module contains the reset-list `object`.
 
 Install using npm:
 
@@ -10,7 +10,15 @@ $ npm install --save wocss-objects-reset-list
 
 ## Usage
 
-Simply add the class to remove any styles that were previously set on a list.
+With a tool like [webpack](https://webpack.github.io/) you can import this module writing:
+
+```scss
+// dependencies imports
+
+@import '~wocss-objects-reset-list';
+```
+
+Then simply add the class to remove any styles that were previously set on a list.
 
 ```html
 <ul class="o-reset-list">
@@ -20,5 +28,4 @@ Simply add the class to remove any styles that were previously set on a list.
 
 ## Dependencies
 
-* [wocss-settings-defaults](https://github.com/wocss/settings.default)
-* [wocss-tools-mixins](https://github.com/wocss/tools.mixins)
+* [wocss-tools-bem-constructor](https://github.com/wocss/tools.bem-constructor)
