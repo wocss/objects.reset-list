@@ -29,3 +29,4 @@ Then simply add the class to remove any styles that were previously set on a lis
 ## Dependencies
 
 * [wocss-tools-bem-constructor](https://github.com/wocss/tools.bem-constructor)
+* [wocss-tools-resets](https://github.com/wocss/tools.resets)
