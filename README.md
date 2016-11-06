@@ -1,3 +1,7 @@
+> ## This module is DEPRECATED
+> This module has been moved to [trumps.utilities](https://github.com/wocss/trumps.utilities/blob/master/src/_trumps.typography.scss#L71) (and renamed to `.u-list-reset`)
+
+
 # Reset list
 
 The `wocss-objects-reset-list` module contains the reset-list `object`.
