@@ -1,6 +1,6 @@
 {
   "name": "wocss-objects-reset-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[DEPRECATED] wocss' reset-list object",
   "main": "_objects.reset-list.scss",
   "repository": {
